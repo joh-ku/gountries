@@ -1,0 +1,25 @@
+name:
+  common: Ireland
+  official: Northern Ireland
+  native:
+    eng:
+      common: Ireland
+      official: Northern Ireland
+eumember: true
+landlocked: false
+nationality: ''
+tlds:
+- ".ie"
+languages:
+  eng: English
+codes:
+  alpha2: GB-NIR
+  alpha3: GB-NIR
+  callingcodes:
+  - '44'
+geo:
+  region: Europe
+  subregion: Northern Europe
+  continent: Europe
+  capital: Dublin
+  area: 84421

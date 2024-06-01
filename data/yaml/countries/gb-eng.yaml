@@ -1,0 +1,27 @@
+name:
+  common: England
+  official: England
+  native:
+    eng:
+      common: England
+      official: England
+eumember: true
+landlocked: false
+nationality: ''
+tlds:
+- ".uk"
+languages:
+  eng: English
+currencies:
+- GBP
+codes:
+  alpha2: GB-ENG
+  alpha3: GB-ENG
+  callingcodes:
+  - '44'
+geo:
+  region: Europe
+  subregion: Northern Europe
+  continent: Europe
+  capital: London
+  area: 130310

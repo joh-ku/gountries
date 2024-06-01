@@ -1,0 +1,25 @@
+name:
+  common: Scotland
+  official: Scotland
+  native:
+    eng:
+      common: Scotland
+      official: Scotland
+eumember: true
+landlocked: false
+nationality: ''
+tlds:
+- ".scot"
+languages:
+  eng: English
+codes:
+  alpha2: GB-SCT
+  alpha3: GB-SCT
+  callingcodes:
+  - '44'
+geo:
+  region: Europe
+  subregion: Northern Europe
+  continent: Europe
+  capital: Edinburgh
+  area: 77901

@@ -1,0 +1,25 @@
+name:
+  common: Wales
+  official: Wales
+  native:
+    eng:
+      common: Wales
+      official: Wales
+eumember: true
+landlocked: false
+nationality: ''
+tlds:
+- ".wales"
+languages:
+  eng: English
+codes:
+  alpha2: GB-WLS
+  alpha3: GB-WLS
+  callingcodes:
+  - '44'
+geo:
+  region: Europe
+  subregion: Northern Europe
+  continent: Europe
+  capital: Cardiff
+  area: 20737
